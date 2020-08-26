@@ -7,7 +7,6 @@ coverage/**
 TODO.txt
 **.js.map
 .DS_Store
-build
 coverage.lcov
 index.d.ts
 out/
